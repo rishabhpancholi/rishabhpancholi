@@ -2,8 +2,8 @@
 
 ## NASSCOM (GOI) Certified Data Scientist from IIT Bhubaneswar | Skilled in Machine Learning, Deep Learning & AI
 
-- 🔭 I’m currently learning Data Science,Machine Learning, Deep Learning, MLOPs, Generative AI,Agentic AI, LLMOps
-- 😄 Passionate about making end to end ML/DL/LLM driven system
+- 🔭 I’m currently learning Data Science, Machine Learning, Deep Learning, MLOPs, Generative AI, Agentic AI, LLMOps
+- 😄 Passionate about making end to end ML / DL / LLM driven systems
 - 📫 How to reach me: rishabhpancholi134@gmail.com
 - 📄 [View My Resume](https://drive.google.com/file/d/1DCsyFiRmWJLZmZY7yuhnG9V2517HH-DM/view?usp=sharing)
 
