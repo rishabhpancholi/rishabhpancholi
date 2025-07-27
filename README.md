@@ -1,6 +1,6 @@
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rishabh 😀
 
-## NASSCOM (GOI) Certified Data Scientist from IIT Bhubaneswar | Skilled in Machine Learning, Deep Learning & AI
+## NASSCOM (GOI) and IBM Certified Data Scientist from IIT Bhubaneswar | Skilled in Machine Learning, Deep Learning & AI
 
 - 🔭 I’m currently learning Data Science, Machine Learning, Deep Learning, MLOPs, Generative AI, Agentic AI, LLMOps
 - 😄 Passionate about making end to end ML / DL / LLM driven systems
