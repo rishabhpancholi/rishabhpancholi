@@ -13,7 +13,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rishabh-pancholi-9a31b9191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-pancholi" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/rishabhpancholi1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishabh-pancholi" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/rishabhpancholi1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishabh-pancholi" height="30" width="40" /></a>
 </p>
 
 ## Skills:
