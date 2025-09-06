@@ -14,9 +14,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rishabh-pancholi-9a31b9191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-pancholi" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/rishabhpancholi1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rishabh-pancholi" height="30" width="40" /></a>
-<a href="https://dagshub.com/rishabhpancholi" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dagshub.svg" alt="rishabhpancholi" height="30" width="40" />
-</a>
 </p>
 
 ## Skills:
@@ -51,5 +48,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 ![](https://github-readme-stats.vercel.app/api?username=rishabhpancholi&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhpancholi&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishabhpancholi&theme=gotham&hide_border=false)<br/>
+
 
 
