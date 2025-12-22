@@ -5,7 +5,7 @@
 - 🔭 I’m currently learning Data Science, Machine Learning, Deep Learning, MLOPs, Generative AI, Agentic AI, LLMOps
 - 😄 Passionate about making end to end ML / DL / LLM driven systems
 - 📫 How to reach me: rishabhpancholi134@gmail.com
-- 📄 [View My Resume](https://drive.google.com/file/d/1w2QhzNJfnr0et7F98pQHPfLewY9K2815/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1E4nAHBRz-Y78KFTY9cQeCIbzMUzkF9W-/view?usp=sharing)
 
 <img align="right" alt="coding" width="375" height="250" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
@@ -48,6 +48,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 ![](https://github-readme-stats.vercel.app/api?username=rishabhpancholi&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhpancholi&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishabhpancholi&theme=gotham&hide_border=false)<br/>
+
 
 
 
