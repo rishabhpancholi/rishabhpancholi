@@ -43,12 +43,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 - **Data Analysis**: Pandas | Numpy | Scipy
 - **Web Scraping**: Beautiful Soup | Selenium
 
-## GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=rishabhpancholi&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhpancholi&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rishabhpancholi&theme=gotham&hide_border=false)<br/>
-
 
 
 
