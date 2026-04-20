@@ -3,7 +3,7 @@
 ## Backend engineer specializing in Python and Golang, building scalable APIs, real-time systems, and production-ready backend architectures with Docker, AWS, and CI/CD.
 
 - 📫 How to reach me: rishabhpancholi134@gmail.com
-- 📄 [View My Resume](https://drive.google.com/file/d/11t7zyhkywwzYmlh4JgDQc3VgylITA3TG/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1VSu7rHFdSgOPcYh2fEZ_mY9a2xSGjaRv/view?usp=sharing)
 
 <img align="right" alt="coding" width="375" height="250" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
