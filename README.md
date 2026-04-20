@@ -1,6 +1,6 @@
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rishabh 😀
 
-## Backend engineer specializing in Python building scalable APIs, real-time systems, and production-ready backend architectures with Docker, AWS, and CI/CD.
+## Backend-focused engineer with strong proficiency in Python and extensive experience building scalable, production-ready APIs. Skilled in designing RESTful services and managing data persistence with SQL and NoSQL databases. Experienced in containerization using Docker, implementing CI/CD pipelines with GitHub Actions, and deploying applications on AWS. Built multiple end-to-end backend systems with authentication, data pipelines, and efficient API design. Familiar with Generative AI and Machine Learning concepts, including integrating LLM APIs, building AI-powered backend features, and working with data-driven workflows. Focused on writing clean, maintainable code and building reliable backend architectures with a primary emphasis on Python backend development.
 
 - 📫 How to reach me: rishabhpancholi134@gmail.com
 - 📄 [View My Resume](https://drive.google.com/file/d/1DCsyFiRmWJLZmZY7yuhnG9V2517HH-DM/view?usp=sharing)
